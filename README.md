@@ -25,7 +25,7 @@ Este repositório contém implementações de estruturas de dados fundamentais e
 1.  **Clone o Repositório:**
     ```bash
     git clone https://github.com/DaviJCN/Estrutura-de-dados.git
-    cd Estruturas_de_Dados
+    cd Estrutura_de_Dados
     ```
 
 2.  **Verifique a Estrutura de Pastas:**
