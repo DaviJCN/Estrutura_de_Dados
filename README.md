@@ -51,4 +51,4 @@ Este repositório contém implementações de estruturas de dados fundamentais e
 
 * [Documentação Oficial do Python: Estruturas de Dados](https://docs.python.org/3/tutorial/datastructures.html)
 * [Tipos Embutidos no Python](https://docs.python.org/3/library/stdtypes.html)
-* [Tipos Embutidos no Python](https://www.youtube.com/watch?v=ix9cRaBkVe0)
+* [Um dos Vídeos que Mais me Ajudou](https://www.youtube.com/watch?v=ix9cRaBkVe0)
